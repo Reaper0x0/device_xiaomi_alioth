@@ -15,6 +15,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/alioth/device.mk)
 
 PRODUCT_NAME := lineage_alioth
+TARGET_BOOT_ANIMATION_RES := 1080
 PRODUCT_DEVICE := alioth
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := POCO
