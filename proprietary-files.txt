@@ -376,6 +376,9 @@ vendor/lib64/libmulticam_image_optical_zoom.so
 vendor/lib64/libmulticam_optical_zoom_control.so
 vendor/lib64/libmulticam_video_optical_zoom.so
 
+# Display Advanced Offsets
+vendor/etc/display/advanced_sf_offsets.xml
+
 # Display-calibration from HelluvaOS
 vendor/etc/displayconfig/display_id_4630946736638489729.xml|17808c5aa805de40861cc028ca87240316b561f1
 vendor/etc/ltm_config_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml|604244bcfa2dd8fa3f7852349efa15c299987c60
