@@ -13,7 +13,13 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Whether to show Smooth Display feature in Settings Options -->
-    <bool name="config_show_smooth_display">true</bool>
+    <!-- Display settings screen, peak refresh rate settings title [CHAR LIMIT=30] -->
+    <string name="peak_refresh_rate_title">Smooth Display</string>
 
-</resources>
+    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
+    <string name="peak_refresh_rate_summary">Automatically raises the refresh rate from 60 to 120 Hz for some content. Increases battery usage.</string>
+
+    <!-- Display developer settings: Force to the highest refresh rate [CHAR LIMIT=NONE] -->
+    <string name="force_high_refresh_rate_toggle">Force 120 Hz refresh rate</string>
+
+ </resources>
